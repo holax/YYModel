@@ -295,7 +295,7 @@ You can also install documentation locally using [appledoc](https://github.com/t
 
 Requirements
 ==============
-This library requires `iOS 6.0+` and `Xcode 7.0+`.
+This library requires `iOS 9.0+` and `Xcode 11.0+`.
 
 
 License
@@ -605,7 +605,7 @@ EEE MMM dd HH:mm:ss Z yyyy
 
 系统要求
 ==============
-该项目最低支持 `iOS 6.0` 和 `Xcode 7.0`。
+该项目最低支持 `iOS 9.0` 和 `Xcode 11.0`。
 
 
 许可证
