@@ -8,8 +8,6 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '9.0'
   s.osx.deployment_target = '10.12'
-  s.watchos.deployment_target = '4.0'
-  s.tvos.deployment_target = '10.0'
 
   s.source       = { :git => 'https://github.com/oneofai/YYModel.git', :tag => s.version.to_s }
   
